@@ -127,3 +127,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+datain/nft_search_tweets_sample.jsonl
