@@ -129,3 +129,11 @@ dmypy.json
 .pyre/
 datain/nft_search_tweets_sample.jsonl
 datain/nft_search_tweets_sample_cleaned.jsonl
+graphs/tweets_replies_vader_sentiment.jsonl
+graphs/cleaned_tweets_textblob.jsonl
+graphs/tweets_original_vader_sentiment.jsonl
+graphs/tweets_vader_sentiment.jsonl
+datain/all_matched_author_replied_sentiment.jsonl
+datain/nft_cleaned_interactions_sentiment.jsonl
+datain/all_data.jsonl
+datain/nft_tweets.jsonl
