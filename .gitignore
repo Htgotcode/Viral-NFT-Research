@@ -141,3 +141,5 @@ graphs/cleaned_text.jsonl
 graphs/edgelist.jsonl
 datain/nft_tweets.jsonl
 datain/nft_tweets.jsonl
+datain/truncated.ftree
+datain/nft_tweets.jsonl
