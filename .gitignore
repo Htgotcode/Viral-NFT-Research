@@ -143,3 +143,10 @@ datain/nft_tweets.jsonl
 datain/nft_tweets.jsonl
 datain/truncated.ftree
 datain/nft_tweets.jsonl
+datain/nft_replies_tweets.jsonl
+datain/nft_original_tweets.jsonl
+datain/flattened_tags.jsonl
+datain/tweets.jsonl
+graphs/sentiment_original_replies.jsonl
+graphs/sentiment_total_from_replies.jsonl
+graphs/lowercase.jsonl
